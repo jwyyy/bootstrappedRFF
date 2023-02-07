@@ -1,6 +1,6 @@
 # Error Estimation for Random Fourier Features
 
-This repository provides code for demonstrating how to apply bootstrap to obtain posteriori error estimation for random Fourier features. We study how the bootstrap method performance in various applications, such matrix approximation, kernel ridge regression, and hypothesis testing using maximum mean discrepancy, and the experiments are conducted across multiple real and simulated datasets. All results presented in the paper are reproducible by running the corresponding code snippets. Following explains the organization and contents of this repository.   
+This repository provides code for demonstrating how to apply bootstrap to obtain posteriori error estimation for random Fourier features. We study how the bootstrap method performs in various applications, such matrix approximation, kernel ridge regression, and hypothesis testing using maximum mean discrepancy. Experiments are conducted across multiple real and simulated datasets. All results presented in the paper are reproducible by running the corresponding code snippets. Following explains the organization and contents of this repository.   
 
 ### Matrix Approximation Experiments
 
