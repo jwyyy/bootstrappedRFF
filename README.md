@@ -19,4 +19,4 @@ The `krr + mmd` folder contains the code for both KRR and MMD experiments.
 
 ## Reference
 [J. Yao, N. B. Erichson, and M. E. Lopes. Error Estimation for Random Fourier Features, AISTATIS, 2023.](link_later) \
-(included in oral presentation, top 1.9% of submissions)
+(included in oral presentations, top 1.9% of submissions)
