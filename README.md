@@ -18,5 +18,6 @@ The `krr + mmd` folder contains the code for both KRR and MMD experiments.
 4. Note: Both KRR and MMD experiments are parallel programs. When running the experiment, make sure that the machine can handle the experiment configurations.  
 
 ## Reference
-[J. Yao, N. B. Erichson, and M. E. Lopes. Error Estimation for Random Fourier Features, AISTATIS, 2023.](https://arxiv.org/abs/2302.11174) \
+[J. Yao, N. B. Erichson, and M. E. Lopes. Error Estimation for Random Fourier Features, AISTATIS, 
+2023.](https://proceedings.mlr.press/v206/yao23a.html) \
 (included in oral presentation, top 1.9% of submissions)
